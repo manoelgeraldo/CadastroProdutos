@@ -1,0 +1,13 @@
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\bin\Debug\CadastroProduto.exe.config
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\bin\Debug\CadastroProduto.exe
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\bin\Debug\CadastroProduto.pdb
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\obj\Debug\CadastroProduto.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\obj\Debug\CadastroProduto.FormMain.resources
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\obj\Debug\CadastroProduto.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\obj\Debug\CadastroProduto.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\obj\Debug\CadastroProduto.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\obj\Debug\CadastroProduto.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\obj\Debug\CadastroProduto.exe
+C:\Users\USUARIO\Desktop\JUVENAL\Pessoal\CadastroProduto\CadastroProduto\CadastroProduto\obj\Debug\CadastroProduto.pdb
